@@ -1,0 +1,7 @@
+,short_name,version,processing_level,message,opendap_url
+0,MODIS_CR_Equal_Angle_Daily,1.0,3,success,https://measures.gesdisc.eosdis.nasa.gov/opendap/CloudRegimes/MODIS_CR_Equal_Angle_Daily.1.0//MODIS_CR.EqualAngle_daily.C61.V1.0.L3.2003.nc4
+1,MODIS_CR_Equal_Area_3h,1.0,3,"unable to decode time units 'days since 2000-03-01 00:00:00' with ""calendar 'none'"". Try opening your dataset with decode_times=False or installing cftime if it is not installed.",https://measures.gesdisc.eosdis.nasa.gov/opendap/CloudRegimes/MODIS_CR_Equal_Area_3h.1.0//MODIS_CR.EqualArea_3h.C61.V1.0.L3.2003.nc4
+2,ACOSMonthlyGriddedXCO2,3,4,success,https://measures.gesdisc.eosdis.nasa.gov/opendap/CO2/ACOSMonthlyGriddedXCO2.3/2014/ACOSMonthlyGriddedXCO2_2014_09_v3_1642606018.nc
+3,MSULTT,001,3,[Errno -90] NetCDF: file not found: b'https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSULTT.001/1979/L93ch23.7994daygrd_temp_msu.nat.Z',https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSULTT.001/1979/L93ch23.7994daygrd_temp_msu.nat.Z
+4,MSUUTT,001,3,[Errno -90] NetCDF: file not found: b'https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSUUTT.001/1979/L93ch34.7994daygrd_temp_msu.nat.Z',https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSUUTT.001/1979/L93ch34.7994daygrd_temp_msu.nat.Z
+5,MSULST,001,3,[Errno -90] NetCDF: file not found: b'https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSULST.001/1979/L93ch4.7994daygrd_temp_msu.nat.Z',https://disc1.gesdisc.eosdis.nasa.gov/opendap/lim93/MSULST.001/1979/L93ch4.7994daygrd_temp_msu.nat.Z
