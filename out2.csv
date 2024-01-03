@@ -65,3 +65,16 @@
 63,OCO2_Eph,10r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_Eph.10r/2014/183/oco2_Ephem_00001_140702_B10000r_200505005851.h5
 64,OCO2_Eph,11r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_Eph.11r/2014/183/oco2_Ephem_00001_140702_B11000r_211224062258.h5
 65,OCO2_L1aIn_Pixel,10,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Pixel.10/2019/335/oco2_L1aInDP_28801a_191201_B10007_200204025500.h5
+66,OCO2_L1aIn_Pixel,11,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Pixel.11/2022/060/oco2_L1aInDP_40757a_220301_B11006_220302015925.h5
+67,OCO2_L1aIn_Pixel,10r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Pixel.10r/2014/202/oco2_L1aInDP_00278a_140721_B10000r_200505044220.h5
+68,OCO2_L1aIn_Pixel,11r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1aIn_Pixel.11r/2014/202/oco2_L1aInDP_00278a_140721_B11000r_220105203554.h5
+69,OCO2_L1aIn_Sample,10,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Sample.10/2019/335/oco2_L1aInSB_28801a_191201_B10007_200204025500.h5
+70,OCO2_L1aIn_Sample,11,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Sample.11/2022/060/oco2_L1aInDS_40757a_220301_B11006_220302015925.h5
+71,OCO2_L1aIn_Sample,10r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1aIn_Sample.10r/2014/184/oco2_L1aInSB_00018a_140703_B10000r_200505034422.h5
+72,OCO2_L1aIn_Sample,11r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1aIn_Sample.11r/2014/184/oco2_L1aInSB_00018a_140703_B11000r_220105200708.h5
+73,OCO2_L1B_Calibration,11,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1B_Calibration.11/2022/126/oco2_L1bClDS_41721a_220506_B11008_220506132745.h5
+74,OCO2_L1B_Calibration,10r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1B_Calibration.10r/2014/249/oco2_L1bClDS_00958a_140906_B10003r_191231062034.h5
+75,OCO2_L1B_Calibration,11r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1B_Calibration.11r/2014/249/oco2_L1bClDS_00958a_140906_B11006r_230308173717.h5
+76,OCO2_L1B_Science,11,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap//OCO2_L1B_Science.11/2021/276/oco2_L1bScND_38594a_211003_B11006r_220518184247.h5
+77,OCO2_L1B_Science,10r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1B_Science.10r/2014/249/oco2_L1bScND_00958a_140906_B10003r_191216202602.h5
+78,OCO2_L1B_Science,11r,success,https://oco2.gesdisc.eosdis.nasa.gov/opendap/OCO2_L1B_Science.11r/2014/249/oco2_L1bScND_00958a_140906_B11006r_230308173300.h5
