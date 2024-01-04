@@ -4,3 +4,6 @@ dmr_data
 # Local directory
 other_demo.ipynb
 playground.ipynb
+*.DS_Store
+.DS_Store
+play*
